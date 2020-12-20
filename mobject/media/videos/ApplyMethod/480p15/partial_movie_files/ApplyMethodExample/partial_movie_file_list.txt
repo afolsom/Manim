@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/addison/Manim/mobject/media/videos/ApplyMethod/480p15/partial_movie_files/ApplyMethodExample/3070002022_3236624619_3269984815.mp4'
+file 'file:/home/addison/Manim/mobject/media/videos/ApplyMethod/480p15/partial_movie_files/ApplyMethodExample/628362505_3972803965_1567432294.mp4'
+file 'file:/home/addison/Manim/mobject/media/videos/ApplyMethod/480p15/partial_movie_files/ApplyMethodExample/628362505_3410965243_3269984815.mp4'
+file 'file:/home/addison/Manim/mobject/media/videos/ApplyMethod/480p15/partial_movie_files/ApplyMethodExample/628362505_3972803965_747597616.mp4'
